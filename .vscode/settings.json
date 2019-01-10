@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.js.es6": "javascript"
+  },
+}
